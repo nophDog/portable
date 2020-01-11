@@ -7,7 +7,7 @@
     "hash": "88382CA9370C6A61E764D5C6F5C142FEE0FBB0486FCE73FC34D329C93C9F05B1",
     "shortcuts": [
         [
-            "$dir\\Duplicate Cleaner\\DuplicateCleaner.exe",
+            "Duplicate Cleaner\\DuplicateCleaner.exe",
             "DuplicateCleaner"
         ]
     ]
