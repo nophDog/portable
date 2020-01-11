@@ -1,0 +1,18 @@
+{
+    "homepage": "https://rammichael.com/textify",
+    "description": "A small tool which allows to copy text from dialogs and controls which don’t allow it otherwise",
+    "license": {
+        "identifier": "GPL",
+        "url": "https://github.com/m417z/Textify/blob/master/LICENSE"
+    },
+    "version": "1.8",
+    "url": "ftp://127.0.0.1/Utility/Textify_1.8.0.zip",
+    "hash": "9F8CF9E8F3BF97B746F2A0E7E1F1150CBF906664DABF62B01308103A47E4275D",
+    "shortcuts": [
+        [
+            "Textify.exe",
+            "Textify"
+        ]
+    ]
+}
+
