@@ -1,0 +1,15 @@
+{
+    "homepage": "https://www.regexbuddy.com/",
+    "description": "Learn, Create, Understand, Test, Use and Save Regular Expressions with RegexBuddy",
+    "license": "Unknown",
+    "version": "4.9.0",
+    "url": "ftp://192.168.1.103/Productivity/regexBuddy_14722.zip",
+    "hash": "FE963991CC8ABDBA8BA9E0FBDAEB5EBA8F287A4775FCB4E2F44E01FF014E6773",
+    "shortcuts": [
+        [
+            "RegexBuddy4.exe",
+            "RegexBuddy4"
+        ]
+    ]
+}
+
