@@ -1,0 +1,15 @@
+{
+    "homepage": "http://www.youxiao.cn",
+    "description": "A calendar for Windows 10 including lunar calendar",
+    "license": "Unknown",
+    "version": "2.0.1.18",
+    "url": "ftp://192.168.1.103/Productivity/yxCalendar_2.0.1.18.zip",
+    "hash": "C52ABDB0F3D26D2DF7AF8DD78FD1AA0D470B1458F947A5EE705BBF7E28A22E4E",
+    "shortcuts": [
+        [
+            "优效日历.exe",
+            "优效日历.exe"
+        ]
+    ]
+}
+
