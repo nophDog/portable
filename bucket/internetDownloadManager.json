@@ -1,0 +1,20 @@
+{
+    "homepage": "https://www.internetdownloadmanager.com",
+    "description": "A free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software",
+    "license": "Commercial",
+    "version": "6.36.3",
+    "url": "http://123.56.110.31/Utility/IDM v6.36 Build 1.37 V3.7z",
+    "hash": "7F14DB236619CE8111AFCCB4DCAC84D3B228E60F4FC2F97A09EA37CAB28115B2",
+    "shortcuts": [
+        [
+            "IDM/IDMan.exe",
+            "IDM"
+        ],
+        [
+            "绿化&卸载.exe",
+            "绿化&卸载"
+        ]
+    ],
+    "notes": "请先使用 绿化&卸载.exe！"
+}
+
