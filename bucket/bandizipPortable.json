@@ -1,0 +1,31 @@
+{
+    "homepage": "https://en.bandisoft.com/bandizip",
+    "description": "Yet another typical ZIP archiver, Download",
+    "license": "Commercial",
+    "version": "6.26",
+    "architecture": {
+        "64bit": {
+            "url": "http://123.56.110.31/Utility/Bandizip_v6.26_Build_27128_32bit.zip",
+            "hash": "4440EAAE504E7BB99560CCDAB284AB80F50FBB5414FBAF37EB73AADBFC6C84B1",
+            "shortcuts": [
+                [
+                    "Bandizip64.exe",
+                    "Bandizip"
+                ]
+            ]
+        },
+        "32bit": {
+            "url": "http://123.56.110.31/Utility/Bandizip_v6.26_Build_27128_64bit.zip",
+            "hash": "F46366A9D42C362249796DD026BEA7C66FCB20EA1903D03D3290424B3C06E02B",
+            "shortcuts": [
+                [
+                    "Bandizip32.exe",
+                    "Bandizip"
+                ]
+            ]
+        }
+    },
+    "extract_dir": "Bandizip"
+}
+
+
