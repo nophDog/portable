@@ -1,0 +1,16 @@
+{
+    "homepage": "https://picpick.app",
+    "description": "All-in-one design tool for everyone",
+    "license": "Commercial",
+    "version": "5.0.7",
+    "url": "http://123.56.110.31/Utility/picPick_5.0.7.7z",
+    "hash": "1C43A7BA0DEDD622E3D9C01636E89DF1CFE4C1C3E1485E6F6E57F0FC1B05F94B",
+    "extract_dir": "PicPickPortable",
+    "shortcuts": [
+        [
+            "picpick.exe",
+            "PicPick"
+        ]
+    ]
+}
+
