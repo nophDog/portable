@@ -1,0 +1,17 @@
+{
+    "homepage": "https://picasa.en.uptodown.com/windows",
+    "description": "Photo viewer from Google",
+    "license": "Freeware",
+    "version": "3.9.138.150",
+    "url": "http://123.56.110.31/Utility/google_picasa.exe",
+    "hash": "4ACC9A6D738B920CBE2610C42D0233658AC17D8F212AE786E10897A9A9706E65",
+    "extract_dir": "Google Picasa Portable",
+    "shortcuts": [
+        [
+            "Picasa3.exe",
+            "Picasa3"
+        ]
+    ]
+}
+
+
