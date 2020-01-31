@@ -9,6 +9,10 @@
         [
             "Picasa3.exe",
             "Picasa3"
+        ],
+        [
+            "PicasaPhotoViewer.exe",
+            "PicasaPhotoViewer"
         ]
     ]
 }
