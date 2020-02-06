@@ -3,7 +3,7 @@
 <a href="https://github.com/nophDog/random/tree/master/bucket"><img src="https://img.shields.io/badge/quality-99%25-red" alt="image" style="max-width:100%;"></a>
 <br>
 <br>
-🚀 Some portable (or CRACKED) stuff for personal use 😂
+🚀 Some portable (or CRACKED) stuffs for personal use 😂
 
 ```powershell
 scoop bucket add portable https://github.com/nophDog/portable
