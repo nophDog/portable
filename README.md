@@ -1,6 +1,6 @@
 # Bucket for Portable
-<a href="https://github.com/nophDog/random/tree/master/bucket"><img src="https://img.shields.io/badge/manifests-16-brightgreen" alt="image" style="max-width:100%;"></a>
-<a href="https://github.com/nophDog/random/tree/master/bucket"><img src="https://img.shields.io/badge/quality-99%25-red" alt="image" style="max-width:100%;"></a>
+<a href="https://github.com/nophDog/portable/tree/master/bucket"><img src="https://img.shields.io/badge/manifests-16-brightgreen" alt="image" style="max-width:100%;"></a>
+<a href="https://github.com/nophDog/portable/tree/master/bucket"><img src="https://img.shields.io/badge/quality-99%25-red" alt="image" style="max-width:100%;"></a>
 <br>
 <br>
 🚀 Some portable (or CRACKED) stuffs for personal use 😂
