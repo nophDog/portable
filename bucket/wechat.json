@@ -1,0 +1,16 @@
+{
+    "homepage": "https://www.wechat.com/en",
+    "description": "Connecting a billion people with calls, chats, and more",
+    "license": "Unknown",
+    "version": "2.8.0.121",
+    "url": "http://123.56.110.31/Communication/wechat_2.8.0.121.zip",
+    "hash": "F752539D1D67818EBFE48266714094BA1719B02B8AC7DE34C069DDEFDAF6B1A2",
+    "shortcuts": [
+        [
+            "WeChat.exe",
+            "WeChat"
+        ]
+    ]
+}
+
+
