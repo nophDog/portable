@@ -1,0 +1,14 @@
+{
+    "homepage": "http://pandownload.com/",
+    "description": "A downloader of Baidu disk",
+    "version": "2.2.2",
+    "license": "Freeware",
+	"url": "http://123.56.110.31/Utility/pandownloadMod_2.2.2.zip",
+	"hash": "A43A183AFC9C4D5CF0FB3AC56C83B074126F9DDF19EE56ECE3F15CBB70FDBF1F",
+	"shortcuts": [
+		[
+			"Pan Download.exe",
+			"PanDownload"
+		]
+	]
+}
