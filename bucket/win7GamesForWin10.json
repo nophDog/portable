@@ -1,0 +1,42 @@
+{
+	"homepage": "https://winaero.com/blog/get-windows-7-games-for-windows-10",
+	"description": "Windows 7 classic games for Windows 8 or Windows 10",
+	"license": "Unknown",
+	"version": "2020",
+	"url": "http://123.56.110.31/Repo/win7GamesForWin10.zip",
+	"hash": "7C266ED8204F39DC701A79CFB6E52962A400F5D3E714045D528E8936D9FE23DC",
+	"shortcuts": [
+		[
+			"Chess\\chess.exe",
+			"Chess"
+		],
+		[
+			"FreeCell\\FreeCell.exe",
+			"FreeCell"
+		],
+		[
+			"Hearts\\Hearts.exe",
+			"Hearts"
+		],
+		[
+			"Mahjong\\Mahjong.exe",
+			"Mahjong"
+		],
+		[
+			"Minesweeper\\Minesweeper.exe",
+			"Minesweeper"
+		],
+		[
+			"Purble Place\\PurblePlace.exe",
+			"PurblePlace"
+		],
+		[
+			"Solitaire\\Solitaire.exe",
+			"Solitaire"
+		],
+		[
+			"SpiderSolitaire\\SpiderSolitaire.exe",
+			"Solitaire"
+		]
+	]
+}
