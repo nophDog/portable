@@ -2,9 +2,9 @@
     "homepage": "https://www.ntwind.com/software/winsnap.html",
     "description": "A fast and user-friendly utility for taking and editing screenshots",
     "license": "Unknown",
-    "version": "5.1.3",
-    "url": "http://123.56.110.31/Productivity/WinSnap_5.1.3.zip",
-    "hash": "7EFAE53C681968D9099298E5988DB0934998F76B8F53A124B229D7BA909B9110",
+    "version": "5.2.2",
+    "url": "http://123.56.110.31/Productivity/winSnap_5.2.2.zip",
+    "hash": "17353810638150A106913AD2AF4C3B04784BB75EAFD2E158D2DB8922A7CE11B7",
     "shortcuts": [
         [
             "WinSnap64.exe",
