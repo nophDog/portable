@@ -9,6 +9,12 @@
 scoop bucket add portable https://github.com/nophDog/portable
 ```
 
+## 绿软采集来源
+- [软件缘](https://www.appcgn.com)
+- [NoCmd](https://www.nocmd.com)
+- [老殁 | 殁漂遥](https://www.mpyit.com/category/pcsoft)
+- [精品绿色便携软件](https://www.portablesoft.org)
+
 ## List of package
 
 ### Apps
