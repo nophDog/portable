@@ -42,7 +42,7 @@ scoop bucket add portable https://github.com/nophDog/portable
 | [totalCommanderMod](https://www.ghisler.com) | Total Commander is a Shareware file manager for Windows® 95/98/ME/NT/2000/XP/Vista/7/8/8.1/10, and Windows® 3.1. | `9.50.61` | `scoop install totalCommanderMod` |
 | [wechat](https://www.wechat.com/en) | Connecting a billion people with calls, chats, and more | `2.8.0.121` | `scoop install wechat` |
 | [win7GamesForWin10](https://winaero.com/blog/get-windows-7-games-for-windows-10) | Windows 7 classic games for Windows 8 or Windows 10 | `2020` | `scoop install win7GamesForWin10` |
-| [winSnapMod](https://www.ntwind.com/software/winsnap.html) | A fast and user-friendly utility for taking and editing screenshots | `5.1.3` | `scoop install winSnapMod` |
+| [winSnapMod](https://www.ntwind.com/software/winsnap.html) | A fast and user-friendly utility for taking and editing screenshots | `5.2.2` | `scoop install winSnapMod` |
 | [wipeFile](https://www.gaijin.at/en/software/wipefile) | WipeFile deletes files and folders secure and fast | `3.3` | `scoop install wipeFile` |
 | [xiaoWanToolBox](https://maruko.appinn.me) | A GUI front for x264, ffmpeg, etc command line tools, which aims at making video compressing easy | `194` | `scoop install xiaoWanToolBox` |
 | [xyPlorerProMod](https://xyplorer.com) | A file manager for Windows | `20.80.0100` | `scoop install xyPlorerProMod` |
