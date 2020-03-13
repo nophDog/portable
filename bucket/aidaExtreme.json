@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.aida64.com/products/aida64-extreme",
+    "version": "6.20.5300",
+    "license": "Commercial",
+    "description": "",
+    "url": "http://123.56.110.31/Utility/AIDA64_Extreme_6.20.5300.rar",
+    "hash": "3618A3DB9C6E75C7F5B0242BB7F0F4A25D355E9571BF2CF2775AB5DBB3FEE8FA",
+    "shortcuts": [
+		[
+			"AIDA64 Extreme.exe",
+			"AidA64 Extreme"
+		]
+    ]
+}
