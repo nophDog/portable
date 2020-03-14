@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.360.cn",
+    "description": "360 task manager",
+    "license": "Unknown",
+    "version": "1.0.0",
+    "url": "http://123.56.110.31/Utility/360_task_manager.7z",
+    "hash": "A2EE48E162415A63DBC2816113BDC2F48D98B26CF4F7E48BE622D75225EFB324",
+    "shortcuts": [
+        [
+            "360任务管理器.exe",
+            "360 任务管理器"
+        ]
+    ]
+}
