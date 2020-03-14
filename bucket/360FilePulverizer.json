@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.360.cn",
+    "description": "360 file pulverizer",
+    "license": "Unknown",
+    "version": "1.0.0",
+    "url": "http://123.56.110.31/Utility/360_file_pulverizer.7z",
+    "hash": "9800DE6D00E652B6CF37B1FD48C7C520A0F19E78836B6DC26A00AEA9633CD250",
+    "shortcuts": [
+        [
+            "360文件粉碎机.exe",
+            "360 文件粉碎机"
+        ]
+    ]
+}
