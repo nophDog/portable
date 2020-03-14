@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.360.cn",
+    "description": "360 homepage fixer",
+    "license": "Unknown",
+    "version": "1.0.0",
+    "url": "http://123.56.110.31/Utility/360_homepage_fixer.7z",
+    "hash": "EF525E5D1C73BE5564D33AB9CB283BDFEEB77170EAC54423AE9F08FE1555D92A",
+    "shortcuts": [
+        [
+            "360主页修复.exe",
+            "360主页修复"
+        ]
+    ]
+}
