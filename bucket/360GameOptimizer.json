@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.360.cn",
+    "description": "360 game optimizer",
+    "license": "Unknown",
+    "version": "1.0.0",
+    "url": "http://123.56.110.31/Utility/360_game_optimizer.7z",
+    "hash": "F317A8772F6B9F4B5284605174122739FFD69AFFA71C7D6599199E67FC92E494",
+    "shortcuts": [
+        [
+            "360游戏优化器.exe",
+            "360 游戏优化器"
+        ]
+    ]
+}
