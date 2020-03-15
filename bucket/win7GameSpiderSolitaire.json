@@ -1,0 +1,14 @@
+{
+    "homepage": "https://winaero.com/blog/get-windows-7-games-for-windows-10",
+    "description": "Windows7 Chess",
+    "version": "2020",
+    "license": "Unknown",
+    "url": "http://123.56.110.31/Repo/win7GameSpiderSolitaire.7z",
+    "hash": "BC1209CE5002AD04D9146D5E52309BE4F92B271FFA2C82AD12E5A335652C4695",
+    "shortcuts": [
+        [
+            "SpiderSolitaire.exe",
+            "SpiderSolitaire"
+        ]
+    ]
+}

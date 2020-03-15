@@ -1,0 +1,14 @@
+{
+    "homepage": "https://winaero.com/blog/get-windows-7-games-for-windows-10",
+    "description": "Windows7 Game PurblePlace",
+    "version": "2020",
+    "license": "Unknown",
+    "url": "http://123.56.110.31/Repo/win7GamePurblePlace.7z",
+    "hash": "DAB3451CC8B81F8D9C0CB948CF2F0AAB9A62E22E5F14E897D529BB523CB914D1",
+    "shortcuts": [
+        [
+            "PurblePlace.exe",
+            "PurblePlace"
+        ]
+    ]
+}
