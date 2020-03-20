@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.den4b.com/products/renamer",
+    "description": "A very powerful and flexible file renaming tool",
+    "license": "Commercial",
+    "version": "7.1.0",
+    "url": "http://123.56.110.31/Utility/reNamerPro_7.1.0.7z",
+    "hash": "27E369B0BDC32023F416DEDCFC63C2D8F9391698392F4E6469883F695A10748A",
+    "shortcuts": [
+        [
+            "ReNamer.exe",
+            "Renamer Pro"
+        ]
+    ]
+}
