@@ -40,7 +40,7 @@ scoop bucket add portable https://github.com/nophDog/portable
 | [hwidgenMk3](https://bfas237blog.info/downloads/hwidgen-windows-10-digital-license-activator/00/) | Activating your Windows with digital license | `60.20.10` | `scoop install hwidgenMk3` |
 | [internetDownloadManager](https://www.internetdownloadmanager.com) | A free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software | `6.36.3` | `scoop install internetDownloadManager` |
 | [IObitUninstallerProMod](https://www.iobit.com) | Completely Uninstall Unwanted Software, Windows Apps & Browser Plug-ins | `9.0.2.20` | `scoop install IObitUninstallerProMod` |
-| [kwMusicMod](http://www.kuwo.cn) | Online stream music service for mainly Chinese | `9.0.4.0_W4` | `scoop install kwMusicMod` |
+| [kwMusicMod](https://www.kuwo.cn) | Online stream music service for mainly Chinese | `9.0.4.0_W4` | `scoop install kwMusicMod` |
 | [microsoftEdgePortable](https://www.microsoft.com/en-us/edge) | World-class performance with more privacy, more productivity, and more value while you browse | `80.0.361.57` | `scoop install microsoftEdgePortable` |
 | [oneButtonWechatReport](Unknown) | A tool to generate some useful reports for your personal wechat account | `1.0` | `scoop install oneButtonWechatReport` |
 | [pandownloadMod](http://pandownload.com/) | A downloader of Baidu disk | `2.2.2` | `scoop install pandownloadMod` |
