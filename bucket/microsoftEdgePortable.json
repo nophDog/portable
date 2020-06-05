@@ -5,11 +5,11 @@
 	"version": "80.0.361.57",
 	"architecture": {
 		"64bit": {
-			"url": "http://123.56.110.31/Productivity/MicrosoftEdgePortable_x64_80.0.361.57.zip",
+			"url": "https://scoop.myportable.fun/Productivity/MicrosoftEdgePortable_x64_80.0.361.57.zip",
 			"hash": "5CE1F9B50A1C91F46BC25A88035D13644AB7A863477605C5E6CA3B50A44C76DE"
 		},
 		"32bit": {
-			"url": "http://123.56.110.31/Productivity/MicrosoftEdgePortable_x86_80.0.361.57.zip",
+			"url": "https://scoop.myportable.fun/Productivity/MicrosoftEdgePortable_x86_80.0.361.57.zip",
 			"hash": "F49A0CB6E78784372D11B75C203A3496BB0EB479487E25181447A4E7EA10BC83"
 		}
 	},

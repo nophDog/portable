@@ -5,11 +5,11 @@
     "version": "19.1.0",
 	"architecture": {
 		"64bit": {
-			"url": "http://123.56.110.31/Utility/EmEditor_x64_19.1.0.zip",
+			"url": "https://scoop.myportable.fun/Utility/EmEditor_x64_19.1.0.zip",
 			"hash": "C5D4AF673FCC8303D31BD9A454AE3E5F00F5017AD62C09428F78B3D214EC34F8"
 		},
 		"32bit": {
-			"url": "http://123.56.110.31/Utility/EmEditor_x86_19.1.0.zip",
+			"url": "https://scoop.myportable.fun/Utility/EmEditor_x86_19.1.0.zip",
 			"hash": "B8996E2662BC506CCF447CDC398AAE21875CF3272A6AED5A04051205EDBEDCA7"
 		}
 	},

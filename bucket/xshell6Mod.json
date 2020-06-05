@@ -3,7 +3,7 @@
     "description": "The industry’s most powerful ssh client",
     "license": "Commercial",
     "version": "6.0.0193",
-    "url": "http://123.56.110.31/Productivity/Xshell_6.0.0193_PortableSoft.7z",
+    "url": "https://scoop.myportable.fun/Productivity/Xshell_6.0.0193_PortableSoft.7z",
     "hash": "E7D927F92862EEEBB6E1003B167C2B78AD42F58D564973C3AE727F2E2CDB42C9",
     "extract_dir": "Xshell6Portable",
     "shortcuts": [

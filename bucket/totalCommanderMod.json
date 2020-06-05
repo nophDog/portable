@@ -5,11 +5,11 @@
     "description": "Total Commander is a Shareware file manager for Windows® 95/98/ME/NT/2000/XP/Vista/7/8/8.1/10, and Windows® 3.1.",
 	"architecture": {
 		"64bit": {
-			"url": "http://123.56.110.31/Productivity/totalCommanderMod_x64_9.50.61.zip",
+			"url": "https://scoop.myportable.fun/Productivity/totalCommanderMod_x64_9.50.61.zip",
 			"hash": "DD4BC40DC53C6763D8F903A02FC7D1D7F129ACD9FEF4525DA131CCF24851B4B2"
 		},
 		"32bit": {
-			"url": "http://123.56.110.31/Productivity/totalCommanderMod_x86_9.50.61.zip",
+			"url": "https://scoop.myportable.fun/Productivity/totalCommanderMod_x86_9.50.61.zip",
 			"hash": "AF794ED7B7BC6C8ED513A0939E5F315B2742B89BBDB7465FE2778225F1839336"
 		}
 	},
