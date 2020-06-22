@@ -71,7 +71,6 @@ scoop bucket add portable https://github.com/nophDog/portable
 | [xyPlorerProMod](https://xyplorer.com) | 20.80.0100 | A file manager for Windows | Commercial |
 | [yxCalendar](http://www.youxiao.cn) | 2.0.1.18 | A calendar for Windows 10 including lunar calendar |  |
 
-------
 
 <p align="center"><img height="100" src="https://i.loli.net/2020/06/21/kC6K237WbamvDiR.jpg"></p>
 <p align="center">©Copyright <a href="jx.zeng.xtu@gmail.com">jx.zeng</a> 2020</p>
