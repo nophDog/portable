@@ -3,7 +3,7 @@
     "description": "Activator for Windows",
     "version": "1.1",
     "license": "Unknown",
-    "url": "https://scoop.myportable.fun/Utility/win10ActPlus_1.1.zip",
+    "url": "https://pi.myportable.fun/MagicScoop/Utility/win10ActPlus_1.1.zip",
     "hash": "C006B691656970B4EB69FE271F59D54BB809D80176AF0A68FA0AC5B93A71EB38",
     "extract_dir": "Win10actPlus.v1.1.Portable",
     "shortcuts": [

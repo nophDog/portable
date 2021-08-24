@@ -5,7 +5,7 @@
     "version": "6.26",
     "architecture": {
         "64bit": {
-            "url": "https://scoop.myportable.fun/Utility/Bandizip_v6.26_Build_27128_64bit.zip",
+            "url": "https://pi.myportable.fun/MagicScoop/Utility/Bandizip_v6.26_Build_27128_64bit.zip",
             "hash": "4440EAAE504E7BB99560CCDAB284AB80F50FBB5414FBAF37EB73AADBFC6C84B1",
             "shortcuts": [
                 [
@@ -15,7 +15,7 @@
             ]
         },
         "32bit": {
-            "url": "https://scoop.myportable.fun/Utility/Bandizip_v6.26_Build_27128_32bit.zip",
+            "url": "https://pi.myportable.fun/MagicScoop/Utility/Bandizip_v6.26_Build_27128_32bit.zip",
             "hash": "F46366A9D42C362249796DD026BEA7C66FCB20EA1903D03D3290424B3C06E02B",
             "shortcuts": [
                 [

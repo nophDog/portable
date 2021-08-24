@@ -3,7 +3,7 @@
     "description": "A GUI front for x264, ffmpeg, etc command line tools, which aims at making video compressing easy",
     "license": "Unknown",
     "version": "236",
-    "url": "https://scoop.myportable.fun/Productivity/xiaoWanToolBox_236.7z",
+    "url": "https://pi.myportable.fun/MagicScoop/Productivity/xiaoWanToolBox_236.7z",
     "hash": "F750271BBB24F429DC707D29DF30BE04C9814BC6F440C152C763C38BF7E79C85",
     "extract_dir": "xiaowan",
     "shortcuts": [
